@@ -10,7 +10,7 @@ h1 {
     color: black;
     text-decoration: underline;
     text-decoration-color: black;
-    text-decoration-style: wavy;
+    text-decoration-style: double;
     text-underline-offset: 10px;
     text-decoration-thickness: 3px;
 }
