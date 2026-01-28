@@ -1,4 +1,7 @@
 body {
     background-color: pink;
     font-family: "Caveat", cursive;
+    font-size: larger;
+    font-weight: 800;
+    text-align: center;
 }
