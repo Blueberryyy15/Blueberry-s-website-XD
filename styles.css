@@ -4,7 +4,9 @@ body {
     font-size: 50px;
     font-weight: 800;
     text-align: center;
-    text-decoration:underline;
+}
+head {
+     text-decoration:underline;
     text-decoration-color: black;
     text-decoration-style: dashed;
 }
