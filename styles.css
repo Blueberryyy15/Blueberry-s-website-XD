@@ -13,5 +13,5 @@ h1 {
     text-decoration-style: double;
     text-underline-offset: 10px;
     text-decoration-thickness: 3px;
-    text-shadow: 1cm 1cm 2cm grey;
+    text-rendering: geometricPrecision;
 }
