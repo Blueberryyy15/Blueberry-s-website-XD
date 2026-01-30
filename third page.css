@@ -1,0 +1,39 @@
+body {
+    background-color: darkred;
+      font-family: "VT323", monospace;
+    text-align: center;
+     font-size: 50px;
+    font-weight: 800;
+    font-variant: small-caps;
+    color: black;
+}
+h1 {
+    color: black;
+    text-decoration: dashed;
+    text-decoration-color: black;
+    text-decoration-style: dashed;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 3px;
+    text-decoration-line: underline ;
+}
+a {
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    text-decoration-line: underline;
+}
+img {
+    width: 300px;
+    height: auto;
+    border: 5px solid rgb(63, 5, 5);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+img.vine {
+    width: 2000px;
+    height: auto;
+    border: 0cm;
+    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+}
