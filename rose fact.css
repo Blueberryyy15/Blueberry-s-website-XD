@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(255, 72, 111);
+      font-family: "VT323", monospace;
+    text-align: center;
+     font-size: 50px;
+    font-weight: 800;
+    font-variant: small-caps;
+    color: rgb(0, 0, 0);
+}
+h1 {
+    color: black;
+    text-decoration: dashed;
+    text-decoration-color: black;
+    text-decoration-style: wavy;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 3px;
+    text-decoration-line: underline;
+}
+a {
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    text-decoration-line: underline;
+}
+img.rose2 {
+    width: 300px;
+    height: auto;
+    border: 0cm;
+    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+}
+img.strawberry {
+    width: 1500px;
+    height: auto;
+    border: 0cm;
+    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+}
