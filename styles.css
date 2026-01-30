@@ -46,3 +46,19 @@ img.cherryblossoms3 {
     display: block;
     margin: 0 auto;
 }
+.spinning {
+    animation: spin 10s linear infinite;
+    size: 5cm;
+}
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+img.spinning {
+    width: 100px;
+    height: auto;
+    border: 0cm;
+    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+}
