@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="second page.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bluebellswebsite</title>
+</head>
+<html>
+  <head>
+    <title>Blueberry's website pt.2</title>
+  </head>
+  <body>
+    <h1>Let's get to know me!</h1>
+    <p>First, let's check out my favoruite flower!</p>
+     <a href="index.html">previous page</a>
+     <a href=""></a>
+  </body>
+</html>
